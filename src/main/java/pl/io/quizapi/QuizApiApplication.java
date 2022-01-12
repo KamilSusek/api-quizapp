@@ -19,7 +19,7 @@ public class QuizApiApplication {
         return args -> {
 
 
-            Category windows = new Category("Windows");
+            Category windows = new Category("Twój stary");
             Category linux = new Category("Linux");
             Category inne = new Category("Inne");
 
